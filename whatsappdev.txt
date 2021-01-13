@@ -1,4 +1,5 @@
-1.CHat
+1.Chat
 2.last seen
 3.share imgaes
 4.share videos
+5.hiding last seen
