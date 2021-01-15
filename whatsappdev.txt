@@ -3,3 +3,5 @@
 3.share imgaes
 4.share videos
 5.hiding last seen
+6. audio call
+7. video call
